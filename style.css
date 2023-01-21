@@ -27,6 +27,7 @@ header {
   align-items: center;
 }
 
+/*about section*/
 .about {
   display: flex;
 }
@@ -35,8 +36,10 @@ header {
   text-align: left;
 }
 
+/*portfolio section*/
 .portfolio {
   display: flex;
+  align-items: top;
   text-align: center;
   font-size: 14px;
 }
