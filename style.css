@@ -27,6 +27,20 @@ header {
   align-items: center;
 }
 
+.about {
+  display: flex;
+}
+
+.about-text {
+  text-align: left;
+}
+
+.portfolio {
+  display: flex;
+  text-align: center;
+  font-size: 14px;
+}
+
 /* Containers */
 div {
   background-color: #eae2b7;
